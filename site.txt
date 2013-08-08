@@ -1,2 +1,5 @@
 http://www.neo4j.org/learn?gclid=COCr87Ke7bgCFWRU4godjSEAag
 https://github.com/nick144/Fixheadertable.git
+https://github.com/nick144/Post-Thumbnail.git
+http://milesj.me/code
+http://devmoose.com/coding/10-awesome-cakephp-tutorials
